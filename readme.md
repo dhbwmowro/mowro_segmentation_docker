@@ -1,8 +1,8 @@
 This reporsitory contains everything necessary to run the Semantic Segmentation in a Docker container. 
 
-All Images are based on the official NVIDIA Image from [here]{https://ngc.nvidia.com/catalog/containers/nvidia:l4t-ml}, using the nvcr.io/nvidia/l4t-ml:r32.4.2-py3 container. 
+All Images are based on the official NVIDIA Image from [here](https://ngc.nvidia.com/catalog/containers/nvidia:l4t-ml), using the nvcr.io/nvidia/l4t-ml:r32.4.2-py3 container. 
 
-There are two images in the mowrow [Dockerhub repository]{https://hub.docker.com/orgs/dhbwmowro}
+There are two images in the mowrow [Dockerhub repository](https://hub.docker.com/orgs/dhbwmowro)
 - pytorch-installed: contains the base image with pytorch compiled and installed
 - bonnetal-raw: Contains a finished bonnetal installation
 
